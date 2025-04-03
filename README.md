@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about ETL, data modeling and advanced data visualization techniques to enhance my business intelligence knowledge.
 - 👯 I’m looking to collaborate on data-driven projects, especially in the fields of data analysis and business intelligence.
 - 😄 Pronouns: she / her
-- ⚡ I’ve been passionate about data and problem-solving since I was 14 years old. 
+- ⚡ I’ve been passionate about data and problem-solving since I was 14. 
 
 <!--
 **ana-anghelea/ana-anghelea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
