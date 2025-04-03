@@ -1,12 +1,17 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on improving my data analysis skills and creating projects that combine SQL, Excel and Power BI to solve real-world problems.
+- 🌱 I’m currently learning about ETL, data modeling and advanced data visualization techniques to enhance my business intelligence knowledge.
+- 👯 I’m looking to collaborate on data-driven projects, especially in the fields of data analysis and business intelligence.
+- 😄 Pronouns: she / her
+- ⚡ I’ve been passionate about data and problem-solving since I was 14 years old. 
+
 <!--
 **ana-anghelea/ana-anghelea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
